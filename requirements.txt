@@ -1,0 +1,10 @@
+tiktok-captcha-solver
+selenium
+opencv-python
+numpy
+pyautogui
+requests
+stem
+pynput
+undetected-chromedriver
+selenium-stealth
